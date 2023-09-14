@@ -4,11 +4,11 @@
 
 ### 💻 &nbsp;Sobre mim 
 
-- 🤔 &nbsp; Sou desenvolvedor backend de aplicações em JavaScript.
-- 🎓 &nbsp; Estudo constantemente outras tecnologias que possam agregar e aprimorar os meus conhecimentos.
+- 🤔 &nbsp; Sou desenvolvedor backend de aplicações em JavaScript e sou formado em Administração Pública.
+- 🎓 &nbsp; Busco constantemente aprender novas tecnologias que possam agregar e aprimorar os meus conhecimentos, atualmente estou estudando a linguagem JavaScript com foco em backend na Cubos Academy.
 
 
-### 🛠 &nbsp;Tecnologias
+### 🛠 &nbsp;Tecnologias que utilizo
 
 - 🌐 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -26,13 +26,13 @@
 ## Meu Status
 <p>
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ncaracas&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ncaracas&theme=radical&layout=compact&exclude_lang=java+r" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ncaracas&show_icons=true&theme=radical" />
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ncaracas&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
 
 
-##  🤝🏻 &nbsp;Conecte-se comigo
+##  🤝🏻 &nbsp;Conecte-se comigo!
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ncaracas"><img src="https://img.shields.io/badge/-Nelson%20Caracas-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
