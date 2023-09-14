@@ -2,7 +2,7 @@
 
 ## Me chamo Nelson Caracas.
 
-### 💻 &nbsp;About Me 
+### 💻 &nbsp;Sobre mim 
 
 - 🤔 &nbsp; Sou desenvolvedor backend de aplicações em JavaScript.
 - 🎓 &nbsp; Estudo constantemente outras tecnologias que possam agregar e aprimorar os meus conhecimentos.
