@@ -24,13 +24,9 @@
 
 
 ## Meu Status
-<p>
-<a href="https://github.com/AVS1508">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ncaracas&show_icons=true&theme=radical" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncaracas&layout=donut&theme=radical" />
-</a>
-</p>
 
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ncaracas&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ncaracas&hide=Html&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ncaracas&theme=radical) |
+| :-: | :-: | :-: |
 
 ##  🤝🏻 &nbsp;Conecte-se comigo!
 
