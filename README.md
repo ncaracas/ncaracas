@@ -5,8 +5,7 @@
 ### 💻 &nbsp;Sobre mim 
 
 - 🎓 &nbsp; Sou desenvolvedor backend de aplicações em JavaScript, e sou graduado em Administração Pública pela UFC - Universidade Federal do Ceará.
-- 😃 &nbsp; Busco constantemente aprender novas tecnologias que possam agregar e aprimorar os meus conhecimentos como desenvolvedor, atualmente estou estudando a linguagem JavaScript com foco em backend na Cubos Academy.
-
+- 😃 &nbsp; Como desenvolvedor, busco constantemente aprender novas tecnologias que possam agregar e aprimorar os meus conhecimentos, o backend com JavaScript hoje é o meu ponto de encontro.
 
 ### 🛠 &nbsp;Tecnologias que utilizo
 
