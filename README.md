@@ -4,14 +4,16 @@
 
 ### 💻 &nbsp;Sobre mim 
 
-- 🎓 &nbsp; Sou desenvolvedor backend de aplicações em JavaScript, e sou graduado em Administração Pública pela UFC - Universidade Federal do Ceará.
-- 😃 &nbsp; Como desenvolvedor busco constantemente aprimorar os meus conhecimentos em tecnologia.
+- 🎓 &nbsp; Desenvolvedor de soluções backend com JavaScript, e frontend com HTML e CSS.
+- 😃 &nbsp; Graduado em Administração Pública pela UFC - Universidade Federal do Ceará.
 
 ### 🛠 &nbsp;Tecnologias que utilizo
 
 - 🌐 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Html5](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
+  ![css3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
 - 🛢 &nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 - ⚙️ &nbsp;
