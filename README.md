@@ -4,7 +4,7 @@
 
 ### 💻 &nbsp;Sobre mim 
 
-- 🎓 &nbsp; Desenvolvedor de soluções backend com JavaScript, e frontend com HTML e CSS.
+- 🎓 &nbsp; Desenvolvedor de soluções Back-End com JavaScript, e Front-End com HTML e CSS.
 - 😃 &nbsp; Graduado em Administração Pública pela UFC - Universidade Federal do Ceará.
 
 ### 🛠 &nbsp;Tecnologias que utilizo
