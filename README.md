@@ -7,7 +7,7 @@
 - 😃 &nbsp; Desenvolvedor Full-Stack - Tecnologias: HTML | CSS | JavaScript | Node.JS | Vite+React.JS | TypeScript | TailwindCSS | Generative AI.
 - 🎓 &nbsp; Graduado em Administração Pública pela UFC - Universidade Federal do Ceará.
 
-### 🛠 &nbsp;Tecnologias que utilizo
+### 🛠 &nbsp;Principais Tecnologias
 
 - 🌐 &nbsp;
   ![Html5](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
