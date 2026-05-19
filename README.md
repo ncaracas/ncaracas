@@ -4,8 +4,8 @@
 
 ### 💻 &nbsp;Sobre mim 
 
-- 🎓 &nbsp; Desenvolvedor Full-Stack - Tecnologias: HTML | CSS | JavaScript | TypeScript | React.js | Node.js | Generative AI.
-- 😃 &nbsp; Graduado em Administração Pública pela UFC - Universidade Federal do Ceará.
+- 😃 &nbsp; Desenvolvedor Full-Stack - Tecnologias: HTML | CSS | JavaScript | Node.JS | Vite+React.JS | TypeScript | TailwindCSS | Generative AI.
+- 🎓 &nbsp; Graduado em Administração Pública pela UFC - Universidade Federal do Ceará.
 
 ### 🛠 &nbsp;Tecnologias que utilizo
 
@@ -13,9 +13,12 @@
   ![Html5](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
   ![css3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=react)
+  ![Node.js](https://img.shields.io/badge/-Node.JS-333333?style=flat&logo=node.js)
+  ![Express.js](https://img.shields.io/badge/-Express.JS-333333?style=flat&logo=express)
+  ![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)
+  ![React.js](https://img.shields.io/badge/-React.JS-333333?style=flat&logo=react)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) 
+  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss)  
 - 🛢 &nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 - ⚙️ &nbsp;
@@ -23,8 +26,8 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
+  ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Cursor](https://img.shields.io/badge/-Cursor-333333?style=flat&logo=cursor)
 
 ## Meu Status
 
