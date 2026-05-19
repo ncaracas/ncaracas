@@ -4,7 +4,7 @@
 
 ### 💻 &nbsp;Sobre mim 
 
-- 😃 &nbsp; Desenvolvedor Full-Stack - Tecnologias: HTML | CSS | JavaScript | Node.JS | Vite+React.JS | TypeScript | TailwindCSS | Generative AI.
+- 😃 &nbsp; Desenvolvedor Full-Stack - HTML | CSS | JavaScript | Node.JS | Vite+React.JS | TypeScript | TailwindCSS | Generative AI.
 - 🎓 &nbsp; Graduado em Administração Pública pela UFC - Universidade Federal do Ceará.
 
 ### 🛠 &nbsp;Principais Tecnologias
