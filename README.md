@@ -4,7 +4,7 @@
 
 ### 💻 &nbsp;Sobre mim 
 
-- 😃 &nbsp; Desenvolvedor Full-Stack -  Node.JS | React.JS | TypeScript | TailwindCSS | Vite | Next | Generative AI.
+- 😃 &nbsp; Desenvolvedor Full-Stack -  Node.JS | React.JS | TypeScript | TailwindCSS | Vite | Next.js | Generative AI.
 - 🎓 &nbsp; Graduado em Administração Pública pela UFC - Universidade Federal do Ceará.
 
 ### 🛠 &nbsp;Principais Tecnologias
@@ -19,7 +19,7 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss)
   ![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)
-  ![Next](https://img.shields.io/badge/-Next-333333?style=flat&logo=next.js)
+  ![Next](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
 - 🛢 &nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 - ⚙️ &nbsp;
