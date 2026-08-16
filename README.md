@@ -4,7 +4,7 @@
 
 ### 💻 &nbsp;Sobre mim 
 
-- 😃 &nbsp; Desenvolvedor Full-Stack -  Node.JS | React.JS | TypeScript | TailwindCSS | Vite | Next.js | Generative AI.
+- 😃 &nbsp; Desenvolvedor Full-Stack -  Node.JS | React | TypeScript | TailwindCSS | Vite | NEXT.js | Generative AI.
 - 🎓 &nbsp; Graduado em Administração Pública pela UFC - Universidade Federal do Ceará.
 
 ### 🛠 &nbsp;Principais Tecnologias
@@ -15,11 +15,11 @@
   ![Html5](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
   ![css3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![React.js](https://img.shields.io/badge/-React.JS-333333?style=flat&logo=react)
+  ![React.js](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss)
   ![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)
-  ![Next](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+  ![Next](https://img.shields.io/badge/-NEXT.js-333333?style=flat&logo=next.js)
 - 🛢 &nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 - ⚙️ &nbsp;
