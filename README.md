@@ -4,21 +4,22 @@
 
 ### 💻 &nbsp;Sobre mim 
 
-- 😃 &nbsp; Desenvolvedor Full-Stack - HTML | CSS | JavaScript | Node.JS | Vite+React.JS | TypeScript | TailwindCSS | Generative AI.
+- 😃 &nbsp; Desenvolvedor Full-Stack -  Node.JS | React.JS | TypeScript | TailwindCSS | Vite | Next | Generative AI.
 - 🎓 &nbsp; Graduado em Administração Pública pela UFC - Universidade Federal do Ceará.
 
 ### 🛠 &nbsp;Principais Tecnologias
 
 - 🌐 &nbsp;
+  ![Node.js](https://img.shields.io/badge/-Node.JS-333333?style=flat&logo=node.js)
+  ![Express.js](https://img.shields.io/badge/-Express.JS-333333?style=flat&logo=express)
   ![Html5](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
   ![css3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Node.js](https://img.shields.io/badge/-Node.JS-333333?style=flat&logo=node.js)
-  ![Express.js](https://img.shields.io/badge/-Express.JS-333333?style=flat&logo=express)
-  ![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)
   ![React.js](https://img.shields.io/badge/-React.JS-333333?style=flat&logo=react)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) 
-  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss)  
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss)
+  ![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)
+  ![Next](https://img.shields.io/badge/-Next-333333?style=flat&logo=next.js)
 - 🛢 &nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 - ⚙️ &nbsp;
